@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fd17241d.css","mappings":"AAAA,KAEI,6BAAiC,CADjC,QAEF,CAEA,eACE,YACF","sources":["style.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n    font-family: 'Roboto', sans-serif;\r\n  }\r\n  \r\n  .app-container {\r\n    padding: 20px;\r\n  }"],"names":[],"sourceRoot":""}
